@@ -1,0 +1,28 @@
+{
+  "name": "aw1-setup",
+  "version": "1.0.0",
+  "description": "Setup inicio de desarrollo con node y npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recursosdev/aw1-setup.git"
+  },
+  "keywords": [
+    "desarrollo",
+    "setup",
+    "entorno",
+    "ide"
+  ],
+  "author": "Andrés Senn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/recursosdev/aw1-setup/issues"
+  },
+  "homepage": "https://github.com/recursosdev/aw1-setup#readme",
+  "devDependencies": {
+    "five-server": "^0.3.1"
+  }
+}
