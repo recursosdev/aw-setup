@@ -1,6 +1,6 @@
 # Configuración del entorno de trabajo
 
->*Este documento README está escrito en lenguaje [MARKDOWN](https://www.markdownguide.org/) y podemos ver un tutorial [aquí](https://tutorialmarkdown.com/)<img src="images/external.svg" style="max-width:16px;">.*
+>*Este documento README está escrito en lenguaje [MARKDOWN](https://www.markdownguide.org/) y podemos ver un tutorial [aquí](https://tutorialmarkdown.com/).*
 >  
 >*La configuración básica del entorno de trabajo para desarrollo nos permite tener ordenado nuestro proyecto.*
 
